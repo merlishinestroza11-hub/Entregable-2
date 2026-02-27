@@ -1,0 +1,82 @@
+h1{
+    color: rgb(5, 175, 90);
+}
+
+h2{
+    color: rgb(17, 133, 65);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    color: aliceblue;
+    background-color: rgb(206, 241, 230);
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    background-color: rgb(198, 228, 128);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav a:hover{
+     color: rgb(2, 48, 10);
+}
+
+.contenedor1{
+    color: rgb(71, 82, 11);
+    background-color: rgb(253, 255, 254);
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgb(75, 107, 78);
+    padding: 15px;
+}
+
+.contenedor2{
+    color: rgb(18, 100, 1);
+    background-color: rgb(253, 255, 254);
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgb(75, 107, 78);
+    padding: 15px;
+}
+
+main{
+    padding: 20px;
+}
+.titulo-contenedor{
+    color: rgb(35, 61, 52);
+    font-size: 20px;
+    text-align: left;
+}
+.texto-contenedor{
+    color: rgb(190, 202, 14);
+    font-size: 16px;
+    text-align: justify;
+
+}
+
+img{
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin-top: 10px;
+}
+
+footer{
+    background-color: beige;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
